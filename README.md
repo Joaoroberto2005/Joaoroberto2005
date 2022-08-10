@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Joaoroberto2005
+- ✌️  16 years 
+- 💪 I work out
+- 🎓 study at rondon high school
+- 👩🏼‍💻 I have already created projects in scratch and java script
